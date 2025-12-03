@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "2025 Advent of Code Solutions",
   "scripts": {
-    "day01": "npx tsx watch src/day01/index.ts"
+    "day01": "npx tsx watch src/day01/index.ts",
+    "day02": "npx tsx watch src/day02/index.ts"
   },
   "keywords": [],
   "author": "codyhansen92@gmail.com",
